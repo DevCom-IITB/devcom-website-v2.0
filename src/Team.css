@@ -59,12 +59,15 @@
   .team-container {
     margin-left: 6%;
     width: 88%;
-    height: 688px;
+    height: 270px;
     margin-bottom: 80px;
   }
   .team-section-body {
-    height: 600px;
+    height: auto;
     margin-top: 24px;
+  }
+  .team-section-body img {
+    height: auto;
   }
   .team-section-head {
     height: 64px;
