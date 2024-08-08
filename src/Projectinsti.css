@@ -138,3 +138,9 @@ ul li {
     line-height: 72px;
   }
 }
+
+@media (max-width: 850px){
+  .project-name {
+    font-size: 48px;
+  }
+}

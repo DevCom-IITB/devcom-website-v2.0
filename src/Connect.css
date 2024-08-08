@@ -160,3 +160,9 @@ a {
     line-height: 52.32px;
   }
 }
+
+@media (max-width: 850px){
+  .remark {
+    font-size: 36px;
+  }
+}

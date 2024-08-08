@@ -115,3 +115,15 @@
     z-index: 1;
   }
 }
+
+@media (max-width: 866px){
+  .post-holders{
+    justify-content: center;
+  }
+}
+
+@media (max-width: 330px) {
+  p.headings{
+    font-size: 52px;
+  }
+}
